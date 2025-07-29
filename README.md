@@ -41,7 +41,7 @@ docker-compose up --build
 ### Endpoints disponíveis
 
 * `GET /tasks` – lista todas as tarefas
-* \[em breve] `POST /tasks` – cria uma tarefa
+* `POST /tasks` – cria uma tarefa
 * \[em breve] `PUT /tasks/{id}` – atualiza uma tarefa
 * \[em breve] `DELETE /tasks/{id}` – deleta uma tarefa
 
